@@ -74,9 +74,9 @@
     "react-virtualized": "^9.21.2"
   },
   "peerDependencies": {
-    "react": "^16.3.0",
+    "react": "^16.3.0 || ^17.0.0",
     "react-dnd": "^7.3.0",
-    "react-dom": "^16.3.0"
+    "react-dom": "^16.3.0 || ^17.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.0",
